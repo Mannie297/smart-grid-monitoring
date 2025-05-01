@@ -48,6 +48,11 @@ check_data.py
 
 # Documentation
 docs/images/*
+!docs/images/dashboard_overview.png
+!docs/images/realtime_monitoring.png
+!docs/images/energy_distribution.png
+!docs/images/model_performance.png
+!docs/images/feature_analysis.png
 !docs/images/.gitkeep
 
 # Jupyter Notebook
