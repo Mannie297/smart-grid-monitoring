@@ -44,6 +44,7 @@ Thumbs.db
 frontend/
 backend/
 streamlit_app/
+check_data.py
 
 # Documentation
 docs/images/*
