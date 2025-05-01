@@ -116,11 +116,14 @@ streamlit run app.py
 ### Energy Source Distribution
 ![Energy Distribution](docs/images/energy_distribution.png)
 
-### Feature Importance Analysis
-![Feature Importance](docs/images/feature_importance.png)
+### Model Performance
+![Model Performance](docs/images/model_performance.png)
 
-### Correlation Matrix
-![Correlation Matrix](docs/images/correlation_matrix.png)
+### Real-Time Monitoring
+![Real-Time Monitoring](docs/images/realtime_monitoring.png)
+
+### Dashboard Overview
+![Dashboard Overview](docs/images/dashboard_overview.png)
 
 ## 🔍 Feature Details
 
@@ -156,7 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Emmanuel.O - *Initial work* - [YourGithub](https://github.com/mannie297)
+- Emmanuel.O - *Initial work* - [Mannie297](https://github.com/mannie297)
 
 ## 🙏 Acknowledgments
 
