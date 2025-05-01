@@ -2,7 +2,22 @@
 
 A comprehensive dashboard for monitoring and analyzing smart grid performance using machine learning. Built with Streamlit and Python, this application provides real-time insights, predictive analytics, and interactive visualizations for smart grid data.
 
-![Dashboard Preview](docs/images/dashboard_preview.png)
+## 🖼️ Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](docs/images/dashboard_overview.png)
+
+### Real-Time Monitoring
+![Real-Time Monitoring](docs/images/realtime_monitoring.png)
+
+### Energy Distribution
+![Energy Distribution](docs/images/energy_distribution.png)
+
+### Model Performance
+![Model Performance](docs/images/model_performance.png)
+
+### Feature Analysis
+![Feature Analysis](docs/images/feature_analysis.png)
 
 ## 🚀 Features
 
@@ -151,4 +166,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Link: [https://github.com/mannie297/smart-grid-monitoring](https://github.com/mannie297/smart-grid-monitoring) 
+Project Link: [https://github.com/mannie297/smart-grid-monitoring](https://github.com/mannie297/smart-grid-monitoring)
+
+## 📝 Adding Screenshots
+
+To add new screenshots to the documentation:
+
+1. Take screenshots of your dashboard
+2. Save them in the `docs/images` directory with descriptive names
+3. Update the image references in this README
+4. Common screenshot types to include:
+   - Dashboard overview
+   - Real-time monitoring view
+   - Energy distribution charts
+   - Model performance metrics
+   - Feature importance analysis
+   - Correlation matrices
+   - Prediction results 

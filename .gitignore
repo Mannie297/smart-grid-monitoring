@@ -45,6 +45,10 @@ frontend/
 backend/
 streamlit_app/
 
+# Documentation
+docs/images/*
+!docs/images/.gitkeep
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
